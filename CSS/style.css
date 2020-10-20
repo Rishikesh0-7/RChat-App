@@ -1,0 +1,82 @@
+.icon{
+    display: inline;
+    margin-left: 40%;
+}
+
+nav h1{
+    margin-left: 38%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+html{
+    background-image: linear-gradient(rgb(112, 112, 233) , rgb(214, 11, 214));
+}
+
+.container{
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 74vh;
+    margin-left: 4.6%;
+    width: 92%;
+    overflow-y: auto;
+}
+
+.message-left{
+    float: left;
+    clear: both;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 2% ;
+    border-radius: 10px;
+}
+
+.message-right{
+    float: right;
+    clear: both;
+    background-color: rgb(205, 243, 147);
+    padding: 10px;
+    margin: 2% ;
+    border-radius: 10px;
+}
+
+.message-center{
+    clear: both;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    background-color: rgb(108, 190, 201);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.btn{
+    margin-left: 2%;
+    border-radius:4px;
+    height: 50px;
+    width: 100px;
+}
+
+#send-container{
+    display: block;
+    margin: auto;
+    width: 100%;
+    max-width: 954px;
+    text-align: center;
+}
+
+marquee{
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.input{
+    width: 150vh;
+    margin-left: 0pc;
+    border: 2px solid black;
+    border-radius: 9px;
+    height: 34px;
+    font-size: 25px;
+}
